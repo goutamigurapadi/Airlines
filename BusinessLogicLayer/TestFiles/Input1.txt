@@ -1,0 +1,10 @@
+London Dublin 100 150 75
+Gulfstream­G550 8
+general Mark 35
+general Tom 15
+general James 72
+airline Trevor 54
+loyalty Alan 65 50 FALSE FALSE
+loyalty Susie 21 40 TRUE FALSE
+loyalty Joan 56 100 FALSE TRUE
+general Jack 50
